@@ -1,5 +1,57 @@
+h1 {
+    color: blue;
+    text-decoration: underline;
+    background-color: gold;
+}
+h2 {
+    color: rgba(128, 0, 128, 0.253);
+    font-weight: bold;
+    font-size: 25px;
+    border: solid orange;
+}
+
+section {
+    width: 50%;
+    height: 200px;
+    background-color: gray;
+    border: solid black;
+    color: white;
+
+}
+footer {
+    background-color: black;
+    border: solid lightgreen;
+    color: white;
+    font-size: 20 px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
 
 
 
 
+
+
+
+
+
+/* 		
+<h1>Make this text blue, underlined, and have a gold background</h1>
+
+		<h2>Make this text purple, bolded, 25px, and have an orange border </h2>
+
+		<section>
+			<p>Make this section width of 50%, height of 200px, background of gray, border of black, and the paragraph text white</p>
+		</section>
+
+		<footer>
+			<h3>Make this footer have a black background, 
+            with light green border, 
+            and this text 20px white 
+            plus a font-family of Roboto. 
+            Center this text on the page as well.</h3>
+		</footer>
+
+	</body>
+</html>
 

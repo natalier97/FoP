@@ -1,3 +1,32 @@
+h1 {
+    font-size: 30px;
+    padding-left: 30px;
+    border: 1px solid red
+}
+ h2 {
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 5px solid gold;
+    margin-top : 30px;
+    margin-bottom: 20px;
+ }
+ span {
+    border: 1px solid black;
+    color: blue;
+    padding: 20px
+ }
+ section {
+    width: 25%;
+    height: 200px;
+    margin: auto;
+    border: 3px purple solid
+ }
+
+
+
+
+
 /* Please make the h1 30px, with a little padding on the left, and thin red border */
 
 /* Please make the h2 25px, with padding on top/bottom, a thick gold border, and margin on the top/bottom */
